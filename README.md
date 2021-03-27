@@ -21,7 +21,7 @@ It was necessary some work to fix data types, such as date/time. Some columns, s
 ## 4.Data Modeling
 Each question was answered via exploratory data analysis and visualizations - no model was deployed
 
-# 5. Evaluation/ Results
+## 5. Evaluation/ Results
 The main findings of the code can be found at the post available here: https://lucasmaretti.medium.com/understanding-netflixs-growth-over-the-years-4217efbd827b.
 
 # File descriptions
