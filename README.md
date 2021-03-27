@@ -15,9 +15,9 @@ The next 2 questions came as a consequence of that:
 3. Which sector of audience do these countries target the most?
 
 ## 2.Data Understanding
-    The dataset has 7787 rows and 12 columns, each row representing a specific content (movie or tv show) on Netflix. There were few null columns, mainly on director and cast variables. Since these were not necessary for the analysis proposed, they were dropped.
+The dataset has 7787 rows and 12 columns, each row representing a specific content (movie or tv show) on Netflix. There were few null columns, mainly on director and cast variables. Since these were not necessary for the analysis proposed, they were dropped.
 ## 3.Prepare Data
-    It was necessary some work to fix data types, such as date/time. Some columns, such as genre, are multilabel. To work with those, the Multilabel Binarizer package from scikit learn was used to transform the dataframe for that particular analysis. Also, since most of the variables are string / categorical, some Regex work was needed to fix some columns so that they were in a format adequate to work with the visualizations.
+It was necessary some work to fix data types, such as date/time. Some columns, such as genre, are multilabel. To work with those, the Multilabel Binarizer package from scikit learn was used to transform the dataframe for that particular analysis. Also, since most of the variables are string / categorical, some Regex work was needed to fix some columns so that they were in a format adequate to work with the visualizations.
 ## 4.Data Modeling
 Each question was answered via exploratory data analysis and visualizations - no model was deployed
 
