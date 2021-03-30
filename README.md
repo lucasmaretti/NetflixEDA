@@ -1,6 +1,8 @@
 # NetflixEDA
 Repository for files related to the exploratory data analysis of Netflix open data. This project is related to Udacity's Data Science Nanodegree project on Writing a data science blog post.
 
+Github link to repository: https://github.com/lucasmaretti/NetflixEDA
+
 # Installation
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
